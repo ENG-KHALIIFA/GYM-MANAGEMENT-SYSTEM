@@ -1,0 +1,13 @@
+E:\CSharp Projects\Winfiorm Apps\GYM MANAGEMENT SYSTEM\Project\GYM MANAGEMENT SYSTEM\bin\Debug\GYM MANAGEMENT SYSTEM.exe.config
+E:\CSharp Projects\Winfiorm Apps\GYM MANAGEMENT SYSTEM\Project\GYM MANAGEMENT SYSTEM\bin\Debug\GYM MANAGEMENT SYSTEM.exe
+E:\CSharp Projects\Winfiorm Apps\GYM MANAGEMENT SYSTEM\Project\GYM MANAGEMENT SYSTEM\bin\Debug\GYM MANAGEMENT SYSTEM.pdb
+E:\CSharp Projects\Winfiorm Apps\GYM MANAGEMENT SYSTEM\Project\GYM MANAGEMENT SYSTEM\obj\Debug\GYM MANAGEMENT SYSTEM.csproj.AssemblyReference.cache
+E:\CSharp Projects\Winfiorm Apps\GYM MANAGEMENT SYSTEM\Project\GYM MANAGEMENT SYSTEM\obj\Debug\GYM MANAGEMENT SYSTEM.csproj.SuggestedBindingRedirects.cache
+E:\CSharp Projects\Winfiorm Apps\GYM MANAGEMENT SYSTEM\Project\GYM MANAGEMENT SYSTEM\obj\Debug\GYM_MANAGEMENT_SYSTEM.Dashboard.resources
+E:\CSharp Projects\Winfiorm Apps\GYM MANAGEMENT SYSTEM\Project\GYM MANAGEMENT SYSTEM\obj\Debug\GYM_MANAGEMENT_SYSTEM.Properties.Resources.resources
+E:\CSharp Projects\Winfiorm Apps\GYM MANAGEMENT SYSTEM\Project\GYM MANAGEMENT SYSTEM\obj\Debug\GYM MANAGEMENT SYSTEM.csproj.GenerateResource.cache
+E:\CSharp Projects\Winfiorm Apps\GYM MANAGEMENT SYSTEM\Project\GYM MANAGEMENT SYSTEM\obj\Debug\GYM MANAGEMENT SYSTEM.csproj.CoreCompileInputs.cache
+E:\CSharp Projects\Winfiorm Apps\GYM MANAGEMENT SYSTEM\Project\GYM MANAGEMENT SYSTEM\obj\Debug\GYM MANAGEMENT SYSTEM.exe
+E:\CSharp Projects\Winfiorm Apps\GYM MANAGEMENT SYSTEM\Project\GYM MANAGEMENT SYSTEM\obj\Debug\GYM MANAGEMENT SYSTEM.pdb
+E:\CSharp Projects\Winfiorm Apps\GYM MANAGEMENT SYSTEM\Project\GYM MANAGEMENT SYSTEM\bin\Debug\gym_db.mdf
+E:\CSharp Projects\Winfiorm Apps\GYM MANAGEMENT SYSTEM\Project\GYM MANAGEMENT SYSTEM\bin\Debug\gym_db_log.ldf
