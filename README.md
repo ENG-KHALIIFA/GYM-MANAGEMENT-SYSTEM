@@ -18,14 +18,14 @@ the client machine
 This softaware can use only one user that is the master user
 
 # Tools 
-Language : CSharp 
-Database : SQL SERVER ( LocalDb )
---UI Interfaces
- . Guna Design
+Language : CSharp <br>
+Database : SQL SERVER ( LocalDb )<br>
+--UI Interfaces<br>
+ . Guna Design<br>
  . Krypton Master
 
 # Collabs
-  . ENG MOHAMED-ALI
+  . ENG MOHAMED-ALI<br>
   . ENG-CJ
 
     
